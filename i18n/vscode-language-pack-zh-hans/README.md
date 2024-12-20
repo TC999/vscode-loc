@@ -10,8 +10,8 @@
 
 ## 参与
 
-有关翻译改进的反馈，请在 [vscode-loc](https://github.com/microsoft/vscode-loc) 存储库中创建问题。
-翻译字符串在 Microsoft 本地化平台中维护。只能在 Microsoft 本地化平台中进行更改，然后才能导出到 vscode-loc 存储库。因此，vscode-loc 存储库中不接受拉取请求。
+有关翻译改进的反馈，请在 [vscode-loc](https://github.com/microsoft/vscode-loc) 仓库中创建问题。
+翻译字符串在 Microsoft 本地化平台中维护。只能在 Microsoft 本地化平台中进行更改，然后才能导出到 vscode-loc 仓库。因此，vscode-loc 仓库中不接受拉取请求。
 
 ## 许可证
 
